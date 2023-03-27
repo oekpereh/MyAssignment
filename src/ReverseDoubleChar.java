@@ -1,3 +1,14 @@
+/**
+ * @Class: ReverseDoubleChar
+ * @author: Olufunmilayo Ekpereh
+ * version 1.0
+ * Course: ITEC 2140 Spring 2023
+ * Written: March 27, 2023
+ * This java class contains the completed methods and test
+ * by calling the methods with appropriate inputs in the main method.
+ * In this program, I will declare variable: String1, String2, String3.
+ */
+
 public class ReverseDoubleChar {
     public static String reverseDoubleChar(String s) {
         StringBuilder result = new StringBuilder();
