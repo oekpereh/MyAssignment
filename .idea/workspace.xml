@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58271980-8922-4d8b-aba6-d564bc292deb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/birthdayName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/missingFront.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,9 +36,16 @@
     "WebServerToolWindowFactoryState": "false"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.birthdayName">
+  <component name="RunManager" selected="Application.missingFront">
     <configuration name="birthdayName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="birthdayName" />
+      <module name="MyAssignment" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="missingFront" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="missingFront" />
       <module name="MyAssignment" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -52,6 +60,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.missingFront" />
         <item itemvalue="Application.birthdayName" />
         <item itemvalue="Application.sumDigits" />
       </list>
@@ -65,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679948956359</updated>
-      <workItem from="1679948958045" duration="5004000" />
+      <workItem from="1679948958045" duration="5996000" />
     </task>
     <task id="LOCAL-00001" summary="code created">
       <created>1679959269228</created>
@@ -88,11 +97,29 @@
       <option name="project" value="LOCAL" />
       <updated>1679961390816</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="code created&#10;comment added">
+      <created>1679962238832</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679962238832</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="code created" />
