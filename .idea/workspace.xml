@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58271980-8922-4d8b-aba6-d564bc292deb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/ReverseDoubleChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReverseDoubleChar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/missingFront.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/missingFront.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +89,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679948956359</updated>
-      <workItem from="1679948958045" duration="16498000" />
+      <workItem from="1679948958045" duration="16825000" />
     </task>
     <task id="LOCAL-00001" summary="code created">
       <created>1679959269228</created>
@@ -175,7 +175,28 @@
       <option name="project" value="LOCAL" />
       <updated>1679975895199</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="&#10;comment added">
+      <created>1679976057073</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1679976057073</updated>
+    </task>
+    <task id="LOCAL-00014" summary="&#10;comment added">
+      <created>1679976179417</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1679976179417</updated>
+    </task>
+    <task id="LOCAL-00015" summary="&#10;comment added">
+      <created>1679976288672</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1679976288672</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,6 +216,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="code created" />
     <MESSAGE value="code created&#10;comment added" />
-    <option name="LAST_COMMIT_MESSAGE" value="code created&#10;comment added" />
+    <MESSAGE value="&#10;comment added" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;comment added" />
   </component>
 </project>

@@ -4,8 +4,7 @@
  * version 1.0
  * Course: ITEC 2140 Spring 2023
  * Written: March 27, 2023
- * This java class contains the completed methods and test
- * by calling the methods with appropriate inputs in the main method.
+ * This java program will return a version without the first 3 chars, given a string.
  */
 
 public class missingFront {
